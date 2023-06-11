@@ -17,7 +17,7 @@ Zainstaluj zależności dla Node.js:
 
     cd server
     npm install
-Uruchamianie:
+Uruchamianie:  
 Włącz serwer Node.js:
 
 
