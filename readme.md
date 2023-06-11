@@ -42,7 +42,7 @@ Baza danych powinna zostać zaimportowana do XAMPP.Można teraz już spokojnie w
 Dane do logowania Administrator:  
 Email: admin@mail.com Hasło: admin12345  
 Dane do logowania Kierownik:   
-Email: manager@mail.com Hasło: manager12345 
+Email: manager@mail.com Hasło: manager12345  
 Dane do logowania Pracownik: 
 Email: Dane przepisz od admina Hasło: 12345 (dla każdego konta)
 
