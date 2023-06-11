@@ -31,15 +31,15 @@ Włącz aplikację React:
     cd client
     npm run dev
 
-Aplikacja React będzie dostępna pod adresem: http://localhost:5173/start.
    
 Importowanie bazy danych do XAMPP:  
-1.Uruchom XAMPP i upewnij się, że usługi Apache i MySQL są włączone.   
-2.Otwórz przeglądarkę i przejdź do adresu http://localhost/phpmyadmin.   
-3.Zaloguj się do panelu phpMyAdmin (jeśli nie zmieniałeś domyślnych ustawień, nazwa użytkownika to root, a hasło jest puste).  
-4.Utwórz nową bazę danych o nazwie projekt.  
-5.Kliknij na utworzoną bazę danych i wybierz zakładkę "Import".  
-6.Wybierz plik z bazą danych który jest w przesłanym folderze (projekt.sql) do zaimportowania.  
-7.Kliknij "Wykonaj".  
-Baza danych powinna zostać zaimportowana do XAMPP.
+1.Zainstaluj jeśli nie masz XAMPPA'a z linku https://www.apachefriends.org/pl/download.html  
+2.Uruchom XAMPP i upewnij się, że usługi Apache i MySQL są włączone.   
+3.Otwórz przeglądarkę i przejdź do adresu http://localhost/phpmyadmin.   
+4.Zaloguj się do panelu phpMyAdmin (jeśli nie zmieniałeś domyślnych ustawień, nazwa użytkownika to root, a hasło jest puste).  
+5.Utwórz nową bazę danych o nazwie projekt.  
+6.Kliknij na utworzoną bazę danych i wybierz zakładkę "Import".  
+7.Wybierz plik z bazą danych który jest w przesłanym folderze (projekt.sql) do zaimportowania.  
+8.Kliknij "Wykonaj".  
+Baza danych powinna zostać zaimportowana do XAMPP.Można teraz już spokojnie wejść na adres aplikacji: http://localhost:5173/start.
 
