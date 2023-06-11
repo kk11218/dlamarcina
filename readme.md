@@ -41,5 +41,12 @@ Importowanie bazy danych do XAMPP:
 6.Kliknij na utworzoną bazę danych i wybierz zakładkę "Import".  
 7.Wybierz plik z bazą danych który jest w przesłanym folderze (projekt.sql) do zaimportowania.  
 8.Kliknij "Wykonaj".  
-Baza danych powinna zostać zaimportowana do XAMPP.Można teraz już spokojnie wejść na adres aplikacji: http://localhost:5173/start.
+Baza danych powinna zostać zaimportowana do XAMPP.Można teraz już spokojnie wejść na adres aplikacji: http://localhost:5173/start.  
+Dane do logowania Administrator:  
+Email: admin@mail.com Hasło: admin12345  
+Dane do logowania Kierownik:   
+Email: manager@mail.com Hasło: manager12345 
+Dane do logowania Pracownik:  
+Email: Dane przepisz od admina Hasło: 12345 (dla każdego konta)
+
 
