@@ -5,7 +5,7 @@
 2. Przejdź do katalogu projektu: `Bazy_projekt` 
     ```bash
     cd ../..
-    cd SZP
+    cd Bazy_projekt
 
 3. Zainstaluj zależności dla React (będąc w folderze `Bazy_projekt` ):
 
