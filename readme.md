@@ -1,7 +1,4 @@
 # System zarządzania pracownikami
-
-System zarządzania pracownikami.
-
 ## Instalacja
 
 1. Sklonuj repozytorium lub przenieś projekt do wybranego folderu.
