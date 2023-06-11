@@ -43,7 +43,7 @@ Dane do logowania Administrator:
 Email: admin@mail.com Hasło: admin12345  
 Dane do logowania Kierownik:   
 Email: manager@mail.com Hasło: manager12345 
-Dane do logowania Pracownik:  
+Dane do logowania Pracownik: 
 Email: Dane przepisz od admina Hasło: 12345 (dla każdego konta)
 
 
