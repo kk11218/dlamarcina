@@ -13,20 +13,20 @@
    cd client
    npm install
 
-Zainstaluj zależności dla Node.js:
+Zainstaluj zależności dla Node.js (będąc w folderze `SZP`):
 
 
     cd server
     npm install
 Uruchamianie:  
-Włącz serwer Node.js:
+Włącz serwer Node.js (będąc w folderze `SZP`):
 
 
     cd server
     npm start
 
 
-Włącz aplikację React:
+Włącz aplikację React (będąc w folderze `SZP`):
 
 
     cd client
