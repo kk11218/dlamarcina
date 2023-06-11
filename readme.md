@@ -14,20 +14,20 @@ System zarządzania pracownikami.
 
 Zainstaluj zależności dla Node.js:
 
-    bash
+
     cd server
     npm install
 Uruchamianie:
 Włącz serwer Node.js:
 
-bash
+
     cd server
     npm start
 Serwer będzie uruchomiony pod adresem: http://localhost:3000.
 
 Włącz aplikację React:
 
-    bash
+
     cd client
     npm run dev
 
