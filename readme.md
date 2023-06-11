@@ -2,31 +2,31 @@
 ## Instalacja
 
 1. Sklonuj repozytorium lub przenieś projekt do wybranego folderu. Przykładowo przenieś folder z aplikacją na dysk C.
-2. Przejdź do katalogu projektu: `SZP` 
+2. Przejdź do katalogu projektu: `Bazy_projekt` 
     ```bash
     cd ../..
     cd SZP
 
-3. Zainstaluj zależności dla React (będąc w folderze `SZP` ):
+3. Zainstaluj zależności dla React (będąc w folderze `Bazy_projekt` ):
 
    ```bash
    cd client
    npm install
 
-Zainstaluj zależności dla Node.js (będąc w folderze `SZP`):
+Zainstaluj zależności dla Node.js (będąc w folderze `Bazy_projekt`):
 
 
     cd server
     npm install
 Uruchamianie:  
-Włącz serwer Node.js (będąc w folderze `SZP`):
+Włącz serwer Node.js (będąc w folderze `Bazy_projekt`):
 
 
     cd server
     npm start
 
 
-Włącz aplikację React (będąc w folderze `SZP`):
+Włącz aplikację React (będąc w folderze `Bazy_projekt`):
 
 
     cd client
