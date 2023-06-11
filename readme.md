@@ -23,7 +23,7 @@ Włącz serwer Node.js:
 
     cd server
     npm start
-Serwer będzie uruchomiony pod adresem: http://localhost:3000.
+
 
 Włącz aplikację React:
 
@@ -33,13 +33,13 @@ Włącz aplikację React:
 
 Aplikacja React będzie dostępna pod adresem: http://localhost:5173/start.
    
-Importowanie bazy danych do XAMPP
-Uruchom XAMPP i upewnij się, że usługi Apache i MySQL są włączone.
-Otwórz przeglądarkę i przejdź do adresu http://localhost/phpmyadmin.
-Zaloguj się do panelu phpMyAdmin (jeśli nie zmieniałeś domyślnych ustawień, nazwa użytkownika to root, a hasło jest puste).
-Utwórz nową bazę danych o nazwie projekt.
-Kliknij na utworzoną bazę danych i wybierz zakładkę "Import".
-Wybierz plik z bazą danych (projekt.sql) do zaimportowania.
-Kliknij "Wykonaj".
+Importowanie bazy danych do XAMPP:  
+1.Uruchom XAMPP i upewnij się, że usługi Apache i MySQL są włączone.   
+2.Otwórz przeglądarkę i przejdź do adresu http://localhost/phpmyadmin.   
+3.Zaloguj się do panelu phpMyAdmin (jeśli nie zmieniałeś domyślnych ustawień, nazwa użytkownika to root, a hasło jest puste).  
+4.Utwórz nową bazę danych o nazwie projekt.  
+5.Kliknij na utworzoną bazę danych i wybierz zakładkę "Import".  
+6.Wybierz plik z bazą danych który jest w przesłanym folderze (projekt.sql) do zaimportowania.  
+7.Kliknij "Wykonaj".  
 Baza danych powinna zostać zaimportowana do XAMPP.
 
