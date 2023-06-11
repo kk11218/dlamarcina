@@ -11,29 +11,31 @@ System zarządzania pracownikami.
    ```bash
    cd client
    npm install
+
 Zainstaluj zależności dla Node.js:
 
-bash
-Copy code
-cd server
-npm install
-Uruchamianie
+   ```bash
+    Copy code
+    cd server
+    npm install
+Uruchamianie:
 Włącz serwer Node.js:
 
-bash
-Copy code
-cd server
-npm start
+   ```bash
+    Copy code
+    cd server
+    npm start
 Serwer będzie uruchomiony pod adresem: http://localhost:3000.
 
 Włącz aplikację React:
 
-bash
-Copy code
-cd client
-npm run dev
-Aplikacja React będzie dostępna pod adresem: http://localhost:5173/start.
+   ```bash
+    Copy code
+    cd client
+    npm run dev
 
+Aplikacja React będzie dostępna pod adresem: http://localhost:5173/start.
+   
 Importowanie bazy danych do XAMPP
 Uruchom XAMPP i upewnij się, że usługi Apache i MySQL są włączone.
 Otwórz przeglądarkę i przejdź do adresu http://localhost/phpmyadmin.
