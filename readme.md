@@ -1,9 +1,13 @@
 # System zarządzania pracownikami
 ## Instalacja
 
-1. Sklonuj repozytorium lub przenieś projekt do wybranego folderu.
-2. Przejdź do katalogu projektu: `cd nazwa_projektu`
-3. Zainstaluj zależności dla React:
+1. Sklonuj repozytorium lub przenieś projekt do wybranego folderu. Przykładowo przenieś folder z aplikacją na dysk C.
+2. Przejdź do katalogu projektu: `SZP` 
+    ```bash
+    cd ../..
+    cd SZP
+
+3. Zainstaluj zależności dla React (będąc w folderze `SZP` ):
 
    ```bash
    cd client
