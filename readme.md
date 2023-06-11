@@ -48,6 +48,6 @@ Email: admin@mail.com Hasło: admin12345
 Dane do logowania Kierownik:   
 Email: manager@mail.com Hasło: manager12345  
 Dane do logowania Pracownik:  
-Email: Dane przepisz od admina Hasło: 12345 (dla każdego konta)
+Email: Dane przepisz od admina z zakładki Zarządzaj Pracownikami Hasło: 12345 (dla każdego konta)
 
 
