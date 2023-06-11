@@ -33,7 +33,7 @@ Włącz aplikację React (będąc w folderze `SZP`):
     npm run dev
 
    
-Importowanie bazy danych do XAMPP:  
+## Importowanie bazy danych do XAMPP:  
 1.Zainstaluj jeśli nie masz XAMPPA'a z linku https://www.apachefriends.org/pl/download.html  
 2.Uruchom XAMPP i upewnij się, że usługi Apache i MySQL są włączone.   
 3.Otwórz przeglądarkę i przejdź do adresu http://localhost/phpmyadmin.   
